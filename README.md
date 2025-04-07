@@ -23,7 +23,7 @@ Extracted several categories of audio features:
 - Visualized feature importance and relationships
 
 ### 4. Model Development
-We experimented with several regression models:
+Experimented with several regression models:
 - Linear Regression (baseline)
 - Ridge Regression
 - Random Forest
